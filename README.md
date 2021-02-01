@@ -2,8 +2,11 @@
 
 I am Dave, a graduate student majoring in Statistics at Georgia Tech. I am looking for an opportunity where I can apply my knowledge and experience to help company drive business decisions as an analyst.
 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
+![](https://img.shields.io/badge/<TOOLS>-<PYTHON>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<TOOLS>-<R>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<TOOLS>-<SQL>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<TOOLS>-<STATISTICS>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<TOOLS>-<MACHINELEARNING>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 <!--
 **daveyap1993/daveyap1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
