@@ -4,7 +4,7 @@ I am Dave, a graduate student majoring in Statistics at Georgia Tech.
 - 🔭 I’m currently working on in-stock distribution strategy project in retail industry with optimization programming
 - 🌱 I’m currently learning optimization programming and advanced machine learning methods such as NLP
 - 🤔 I’m looking for help with data engineering learning resources
-- 📫 How to reach me: daveyap1993@gmail.com
+- 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/li-wei-dave-yap-6678b7164/
 - ⚡ Fun fact: Board game lover
 
 
