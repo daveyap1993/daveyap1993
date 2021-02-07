@@ -1,10 +1,17 @@
 ### Hello folks 👋
 
-I am Dave, a graduate student majoring in Statistics at Georgia Tech. I am looking for an opportunity where I can apply my knowledge and experience to help company drive business decisions as an analyst.
+I am Dave, a graduate student majoring in Statistics at Georgia Tech. 
+- 🔭 I’m currently working on stock distribution projects 
+- 🌱 I’m currently learning optimization programming and advanced machine learning methods such as NLP
+- 🤔 I’m looking for help with data engineering
+- 📫 How to reach me: daveyap1993@gmail.com
+- ⚡ Fun fact: Board game lover
+
 
 ![](https://img.shields.io/badge/TOOLS-PYTHON-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/TOOLS-R-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/TOOLS-SQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/TOOLS-TABLEAU-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/KNOWLEDGE-STATISTICS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/KNOWLEDGE-MACHINELEARNING-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 <!--
