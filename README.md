@@ -2,8 +2,8 @@
 
 I am Dave, a graduate student majoring in Statistics at Georgia Tech. 
 - 🔭 I’m currently working on in-stock distribution strategy with optimization programming and data infrastructure engineering
-- 🌱 I’m currently learning optimization programming and machine learning methods such as NLP
-- 🤔 I’m looking for help with data engineering learning resources
+- 🌱 I’m currently learning optimization programming and cloud computing
+- 🤔 I’m looking for help with cloud computing learning resources such as AWS, GCP and Azure
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/li-wei-yap
 - 😄 Google Scholar: https://scholar.google.com/citations?user=F3HAIrIAAAAJ&hl=en
 - ⚡ Fun fact: Board game lover
