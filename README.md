@@ -9,12 +9,13 @@ I am Dave, a recent graduate student majoring in Statistics at Georgia Tech.
 - ⚡ Fun fact: Board game lover
 
 
-![](https://img.shields.io/badge/TOOLS-PYTHON-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/TOOLS-R-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/TOOLS-PYTHON, R-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/TOOLS-SQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/TOOLS-TABLEAU-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/TOOLS-Tableau, Power BI, Streamlit, Rshiny-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/KNOWLEDGE-DATA ENGINEERING-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/KNOWLEDGE-OPTIMIZATION-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/KNOWLEDGE-STATISTICS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/KNOWLEDGE-MACHINELEARNING-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/KNOWLEDGE-MACHINELEARNING, AI-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 <!--
 **daveyap1993/daveyap1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
