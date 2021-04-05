@@ -1,6 +1,6 @@
 ### Hello folks 👋
 
-I am Dave, a graduate student majoring in Statistics at Georgia Tech. 
+I am Dave, a recent graduate student majoring in Statistics at Georgia Tech. 
 - 🔭 I’m currently working on in-stock distribution strategy with optimization programming and data infrastructure engineering
 - 🌱 I’m currently learning optimization programming and cloud computing
 - 🤔 I’m looking for help with AWS cloud computing learning resources
