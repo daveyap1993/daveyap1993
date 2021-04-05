@@ -9,7 +9,7 @@ I am Dave, a recent graduate student majoring in Statistics at Georgia Tech.
 - ⚡ Fun fact: Board game lover
 
 
-![](https://img.shields.io/badge/TOOLS-PYTHON, R-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/TOOLS-PYTHON|R-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/TOOLS-SQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/VISUALIZATION-Tableau|PowerBI|Streamlit|Rshiny-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/KNOWLEDGE-DATAENGINEERING-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
